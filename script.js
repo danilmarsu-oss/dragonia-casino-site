@@ -1,4 +1,4 @@
-const formattedDate = new Date().toLocaleDateString("nb-NO");
+const formattedDate = "30.06.2026";
 const updatedDate = document.getElementById("updatedDate");
 
 if (updatedDate) {
